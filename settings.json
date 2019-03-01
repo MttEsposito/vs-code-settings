@@ -1,0 +1,24 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.fontSize": 15,
+    "editor.cursorBlinking": "solid",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "clock.dateFormat": "hh:MM tt",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.emptySelectionClipboard":false,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.defaultDateStyle": "absolute",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0,
+    "files.autoSave": "off",
+    "git.autofetch": true,
+    
+}
